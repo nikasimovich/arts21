@@ -13,7 +13,7 @@ summary: Intros, Hello World
 - [Code of conduct creation](https://paper.dropbox.com/doc/S21-Penn-Art-of-the-Web-Code-of-Conduct--BDZk4ZjYZMl9Ywsp4UNNrV4VAQ-Z5XgdzRkbe2PVEcNHkgH5)
 - [Slack URL](https://artoftheweb.slack.com/) and create Slack channels
 - Go over homework
-- Students [upload turn in work on Canvas] and we view slideshows
+- Students upload Slideshows on canvas and we present as a group
 
 
 ### Homework
