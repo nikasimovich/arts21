@@ -174,4 +174,4 @@ Due to the COVID-19 situation, this class will be online for the entire duration
 Please familiarize yourself with the <a href="https://catalog.upenn.edu/pennbook/code-of-academic-integrity">University Code of Academic Integrity</a>.
 
 ### Other Links
-[Week by week at a glance](https://paper.dropbox.com/doc/Penn-Art-of-the-Web-S21-Calendar--BDVdydmOk~vH65W9PLCOluUwAQ-qmLzSzyWEYDqMaLzuumL3)
+[Download the PDF version of the syllabus](assets/syllabus.pdf)
