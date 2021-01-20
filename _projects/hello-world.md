@@ -7,7 +7,7 @@ index:            1
 
 ### Overview
 <p style="clear: both;">
-  <img src="../assets/images/hello-world.gif" width="100" class="syllabus-img">&ldquo;Hello World&rdquo; is frequently the first phrase used when learning a new programming language. When programmers see this word on a screen, it means that their code worked, indicating a success. As an introduction to our class, create a gif that will serve as your &ldquo;hello world.&rdquo; What is the first feature you&rsquo;d like to share about yourself with our group? Craft a short, visual depiction about yourself in form of an animated gif and upload it to our shared are.na.
+  <img src="../assets/images/hello-world.gif" width="100" class="syllabus-img">&ldquo;Hello World&rdquo; is frequently the first phrase used when learning a new programming language. When programmers see this word on a screen, it means that their code worked, indicating a success. As an introduction to our class, create a gif that will serve as your &ldquo;hello world.&rdquo; What is the first feature you&rsquo;d like to share about yourself with our group? Craft a short, visual depiction about yourself in form of an animated gif and upload it to canvas.
 </p>
 ### Consider
 - Your animation does not need to include the words "Hello World" but it can if you&rsquo;d like.
@@ -35,5 +35,5 @@ How to make a gif
 - <a href="https://gifcities.org/" target="_blank">Gifcities</a>
 
 ### Due Date
-- 09/09
-- Gif must be uploaded to this [are.na channel](https://www.are.na/university-of-pennsylvania-art-of-the-web-fall-2020/hello-world-nwk7klgoypm) before the start of class.
+- 01/25
+- Gif must be uploaded to Canvas
