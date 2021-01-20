@@ -13,12 +13,12 @@ summary: Intros, Hello World
 - [Code of conduct creation](https://paper.dropbox.com/doc/S21-Penn-Art-of-the-Web-Code-of-Conduct--BDZk4ZjYZMl9Ywsp4UNNrV4VAQ-Z5XgdzRkbe2PVEcNHkgH5)
 - [Slack URL](https://artoftheweb.slack.com/) and create Slack channels
 - Go over homework
-- Students upload Slideshows on canvas and we present as a group
+- Students upload slideshows on canvas and we present as a group
 
 
 ### Homework
 - [Review asynchronous notes: Gifs 101](https://paper.dropbox.com/doc/GIFS-101--A60iRc0JBLuk3FeEGh~JqNVYAQ-xZsnAlXPM4FWaWCXelHPm)
-- Complete exercise: Hello World
+- Complete activity: [Hello World](projects/hello-world)
 - Reading: [Olia Lialina discusses visibility and network portraiture on the World Wide Web](https://www.artforum.com/interviews/olia-lialina-discusses-visibility-and-network-portraiture-on-the-world-wide-web-82591) and Zoe is the presenter
 - Rest of class posts a [discussion comment, reflection, or question on our reading doc](https://paper.dropbox.com/doc/Penn-Art-of-Web-S21-Reading-Reflections--BDZ0zkddIHdHnjlunCHHcLmVAQ-S1JiF65jZGoyxtwx4EUPf)
 
