@@ -19,7 +19,7 @@ index:            2
 - Do your images speak for themselves or do they need additional content? Consider adding captions and a title for additional context.
 
 ### Specs
-- HTML only
+- HTML (CSS optional)
 - At least 10 pages
 
 ### Learning Goals
@@ -32,4 +32,4 @@ index:            2
 - <a href="https://www.vox.com/the-goods/21359098/social-justice-slideshows-instagram-activism" target="_blank">How social justice slideshows took over Instagram</a>
 
 ### Due Date
-02/01
+02/03
