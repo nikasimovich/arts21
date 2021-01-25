@@ -18,7 +18,7 @@ summary: Internet history/Cyberspace Origins, HTML intro, Goals of Critique
 
 ### Homework
 - Be ready to discuss the lecture on Wednesday
-- Reading: [A Handmade Web – J.R. Carpenter](http://arts21.labud.nyc/assets/readings/carpenter.pdf), Amy is going to present and everyone else writes a [comment/question](https://paper.dropbox.com/doc/Penn-Art-of-Web-S21-Reading-Reflections--BDZ0zkddIHdHnjlunCHHcLmVAQ-S1JiF65jZGoyxtwx4EUPf).
+- Reading: [A Handmade Web – J.R. Carpenter](http://arts21.labud.nyc/assets/readings/carpenter.pdf), Ashley is going to present and everyone else writes a [comment/question](https://paper.dropbox.com/doc/Penn-Art-of-Web-S21-Reading-Reflections--BDZ0zkddIHdHnjlunCHHcLmVAQ-S1JiF65jZGoyxtwx4EUPf).
 - Create a PDF that highlights three different story ideas for your news room project. For each one, describe the current event (doesn&rsquo;t need to be news), your interest in it, and a few examples of either your reaction or other people&rsquo;s reaction to the story
 
 ---
