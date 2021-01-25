@@ -8,7 +8,7 @@ index:            2
 ### Overview
   Graphic design and journalism have an interesting relationship, especially as news have become increasingly more visual and distributed online. The way we consume is no longer dependent on a single source – news come to us in Tweets, in memes, and of course, on news sites. As graphic designers, we have the opportunity to visualize current events and help shape what is shared and remembered.
 
-  For this project, pick a current event that you&rquo;re interested in. First study it, and then create a website that highlights your reaction to the event through a series of hyperlinks and mixed media.
+  For this project, pick a current event that you&rsquo;re interested in. First study it, and then create a website that highlights your reaction to the event through a series of hyperlinks and mixed media.
 
   Create a set of at least 10 links that work together to highlight your reaction to the event. Each page should have a different type of content ranging from text, imagery, or embedded content. While each asset should feel unique, all of the pages should feel like part of the same collection. Use the news story as a jumping off point and create a stream of consciousness exploration on the topic – similar to getting lost in a series of Google searches.
 
