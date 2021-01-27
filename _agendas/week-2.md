@@ -5,6 +5,24 @@ date_range:       01/25 – 01/27
 summary: Internet history/Cyberspace Origins, HTML intro, Goals of Critique
 ---
 
+### Wednesday, In Class
+
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Week-2b-Notes-Topic-Vs.-Story-Narrative-Arc-Net-Artists-Div-Structure--BD_3oB96AkSjytUmI4zvAibCAQ-zuLIxD5D1bO5VPd32G0Pf)
+- Hear from Ashley and [discuss](https://paper.dropbox.com/doc/Penn-Art-of-Web-S21-Reading-Reflections--BDZ0zkddIHdHnjlunCHHcLmVAQ-S1JiF65jZGoyxtwx4EUPf) [A Handmade Web – J.R. Carpenter](http://arts21.labud.nyc/assets/readings/carpenter.pdf)
+- Narrative arc and examples
+- Small group check ins on your story ideas
+- Start experimenting with Figma
+
+### Homework
+
+- Download the Figma desktop app and font installer
+- Watch [Getting Started with Figma](https://www.youtube.com/watch?v=cCNLD5IZY34)
+- Using Figma, sketch out 3 different visual directions for all the pages of your News Room story. Thinking through how the story will develop through your content, and what unifying factors will tie it together.
+- Project is due Monday 02/09
+
+---
+
 ### Monday, In Class
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
