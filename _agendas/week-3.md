@@ -16,7 +16,7 @@ summary: Introducing CSS, Embedded Content, Troubleshooting, Uploading to GitHub
 
 ### Homework
 
-- Complete your News Room project and aim to have it online at the start of class. We will have time to troubleshoot GitHub.
+- Complete your News Room project and aim to have it online at the start of class.
 
 
 ---
