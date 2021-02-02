@@ -2,7 +2,23 @@
 title:            Week 3
 start_date:       2020-01-20 00:00:00 -0500
 date_range:       02/01 – 02/05
-summary: Introducing CSS, Embedded Content, Uploading to GitHub
+summary: Introducing CSS, Embedded Content, Troubleshooting, Uploading to GitHub
+---
+
+### Wednesday, In Class
+
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Week-3b-Checking-Your-HTMLCSS-Uploading-Your-Work-Asking-for-Help--BEbtnMBBqP26FWNGaVwBFZFgAQ-vFHYyMlbmLoK98EsTQa6X)
+- Troubleshooting HTML
+- Uploading work to GitHub
+- Individual meetings
+
+
+### Homework
+
+- Complete your News Room project and aim to have it online at the start of class. We will have time to troubleshoot GitHub.
+
+
 ---
 
 ### Monday, In Class
