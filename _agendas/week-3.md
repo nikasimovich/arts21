@@ -9,6 +9,7 @@ summary: Introducing CSS, Embedded Content, Troubleshooting, Uploading to GitHub
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Week-3b-Checking-Your-HTMLCSS-Uploading-Your-Work-Asking-for-Help--BEbtnMBBqP26FWNGaVwBFZFgAQ-vFHYyMlbmLoK98EsTQa6X)
+- Hear from Olive and discuss [In Defense of the Poor Image](https://paper.dropbox.com/doc/Penn-Art-of-Web-S21-Reading-Reflections--BEXPCyG90asJ0DoiipEjiVkiAQ-S1JiF65jZGoyxtwx4EUPf)
 - Troubleshooting HTML
 - Uploading work to GitHub
 - Individual meetings
