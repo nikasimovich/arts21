@@ -17,7 +17,7 @@ summary: Critique 1 News Room, Typography online
 
 ### Homework
 - Complete your interview activity and prepare it for the start of class.
-- Read [The Crystal Goblet – Beatrice Warde](http://ci17.nikasimovich.com/assets/readings/warde-beatrice_the-crystal-goblet.pdf), [Drowning the Crystal Goblet – Matthew Butterick], and [What&rsquo;s Crystal Goblet in Korean](https://designobserver.com/article.php?id=29138) and [write a response](https://paper.dropbox.com/doc/Penn-Art-of-Web-S21-Reading-Reflections--BE1iepuNRmHIW6r5ga21B_umAQ-S1JiF65jZGoyxtwx4EUPf) that compares all three readings with a focus on what the crystal goblet is.
+- Read [The Crystal Goblet – Beatrice Warde](http://ci17.nikasimovich.com/assets/readings/warde-beatrice_the-crystal-goblet.pdf), [Drowning the Crystal Goblet – Matthew Butterick](https://practicaltypography.com/drowning-the-crystal-goblet.html), and [What&rsquo;s Crystal Goblet in Korean](https://designobserver.com/article.php?id=29138) and [write a response](https://paper.dropbox.com/doc/Penn-Art-of-Web-S21-Reading-Reflections--BE1iepuNRmHIW6r5ga21B_umAQ-S1JiF65jZGoyxtwx4EUPf) that compares all three readings with a focus on what the crystal goblet is.
 
 
 ---
