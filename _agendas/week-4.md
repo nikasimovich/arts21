@@ -5,6 +5,22 @@ date_range:       02/08 – 02/12
 summary: Critique 1 News Room, Typography online
 ---
 
+### Wednesday, In Class
+
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
+- Hear from Tayo about Typography and the Screen
+- News room debrief
+- Typography day 1
+- Interview activity
+
+
+### Homework
+- Complete your interview activity and prepare it for the start of class.
+- Read [The Crystal Goblet – Beatrice Warde](http://ci17.nikasimovich.com/assets/readings/warde-beatrice_the-crystal-goblet.pdf), [Drowning the Crystal Goblet – Matthew Butterick], and [What&rsquo;s Crystal Goblet in Korean](https://designobserver.com/article.php?id=29138) and [write a response](https://paper.dropbox.com/doc/Penn-Art-of-Web-S21-Reading-Reflections--BE1iepuNRmHIW6r5ga21B_umAQ-S1JiF65jZGoyxtwx4EUPf) that compares all three readings with a focus on what the crystal goblet is.
+
+
+---
+
 ### Monday, In Class
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
