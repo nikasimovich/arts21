@@ -8,6 +8,7 @@ summary: Critique 1 News Room, Typography online
 ### Wednesday, In Class
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Week-4b-Web-Typography-Intro--BE6UnsEXGVPTspJ5XKO_z1_aAQ-9fudnoLPT3jObeFj7ROmL)
 - Hear from Tayo about Typography and the Screen
 - News room debrief
 - Typography day 1
