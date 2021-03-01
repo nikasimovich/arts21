@@ -15,7 +15,7 @@ summary: Fan page project development, Visual research, CSS Animations
 - Small group check ins
 
 ### Homework
-- Listen to [Co-Matter Podcast: The Story Behind Arena](https://co-matter.com/work/charles-broskoski-the-story-behind-are-na) and [this interview with Charles Broskoski on The Creative Indepenent](https://thecreativeindependent.com/people/charles-broskoski-on-self-discovery-upon-revisiting-things-youve-accumulated-over-time/) and write a discussion question](https://paper.dropbox.com/doc/Penn-Art-of-Web-S21-Reading-Reflections--BE1iepuNRmHIW6r5ga21B_umAQ-S1JiF65jZGoyxtwx4EUPf). Sarah is our discussion leader!
+- Listen to [Co-Matter Podcast: The Story Behind Arena](https://co-matter.com/work/charles-broskoski-the-story-behind-are-na) and [this interview with Charles Broskoski on The Creative Indepenent](https://thecreativeindependent.com/people/charles-broskoski-on-self-discovery-upon-revisiting-things-youve-accumulated-over-time/) and [write a discussion question](https://paper.dropbox.com/doc/Penn-Art-of-Web-S21-Reading-Reflections--BE1iepuNRmHIW6r5ga21B_umAQ-S1JiF65jZGoyxtwx4EUPf). Sarah is our discussion leader!
 - Pick one design direction to move forward with and begin revising it and designing the rest of the site. The full site design is due one week from today.
 
 ---
