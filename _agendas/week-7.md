@@ -6,6 +6,22 @@ summary: Fan page project development, Visual research, CSS Animations
 
 ---
 
+### Wednesday, In Class
+
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Week-7b-SVGs-and-CSS-Animations--BGJAsuncdJl5zs3onQLwoT0rAQ-1C6uPyCzhZQHpqf5zN5gZ)
+- Hear from Sarah about Charles Broskoski and Are.na
+- SVGs, CSS Animation
+- CSS animation activity
+- Slack check in on Fan Page
+- Coding office hours
+
+### Homework
+- Complete Exercise – CSS Animation and submit it on Canvas.
+- Full site design due on Monday. Remember to consider how your design adapts to different screen sizes.
+
+---
+
 ### Monday, In Class
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
