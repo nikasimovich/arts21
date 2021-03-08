@@ -41,8 +41,9 @@ index:            3
 - 02/22 – 3 ideas for profile subject due
 - 02/24 Content map and plan, visual research ideas and design gestures
 - 03/01 Sitemap and three revised homepage ideas
-- 03/03 Full site design
-- 03/08 Programming check in
-- 03/10 No class (continue programming)
+- 03/03 Start designing
+- 03/08 Full site design
+- 03/10 Spring break No class (continue programming)
 - 03/15 Programming check in
-- 03/17 Project critique
+- 03/17 Programming check in
+- 03/22 Project critique
