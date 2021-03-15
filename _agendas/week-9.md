@@ -15,5 +15,6 @@ summary: JavaScript Intro, Midterm Reviews
 
 ### Homework
 - Continue working on your project, it is due 03/22 (new deadline)
+- Read [The Hidden Life of an Amazon User – Joana Moll](https://branch.climateaction.tech/2020/09/25/the-hidden-life-of-an-amazon-user/) and write a [discussion question](https://paper.dropbox.com/doc/Penn-Art-of-Web-S21-Reading-Reflections--BG~ak0lM_u3TdGMjXdv_p7myAQ-S1JiF65jZGoyxtwx4EUPf) Zining is the discussion leader.
 
 ---
