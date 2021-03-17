@@ -6,6 +6,21 @@ summary: JavaScript Intro, Midterm Reviews
 
 ---
 
+### Wednesday, In Class
+
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Week-10b-Midterm-Reviews-and-Web-Sustainability--BHG1TZWA32XuXNvUjnPzkdtFAQ-NGvtEW5pYVypZIZF5zaEl)
+- Hear from Zining about The Hidden Life of an Amazon User and we discuss
+- Web sustainability show and tell
+- 1 on 1 midterm meetings and final project check in
+
+### Homework
+
+- Complete your Fan Page project and have it online at the start of class.
+- Be on time on Monday, we have a guest critic coming!
+
+---
+
 ### Monday, In Class
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
