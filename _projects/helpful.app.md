@@ -35,9 +35,9 @@ index:            3
 - 03/29 – Introduce 3 project ideas and potential people to interview for each idea
 - 03/31 – Refine project ideas, prepare interview questions, schedule interview
 - 04/05 – Project check in
-- 04/07 — Interview due, evaluate content of site
+- 04/07 — Project check in
 – 04/12 – No Class
-- 04/14 – Project check in
+- 04/14 – Interview due, evaluate content of site. Project check in 
 - 04/19 – Project check in
 - 04/21 – Project check in
 - 04/26 – Helpful Site/App due
