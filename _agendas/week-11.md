@@ -17,7 +17,7 @@ summary: Web accessibility, Helpful App check ideation, jQuery clock
 - Small group meetings
 
 ### Homework
-- Begin thinking through your site contents and architecture (can change later) and develop a site map and/or wireframe
+- Begin thinking through your site contents and architecture (can change later) and develop a site map and/or list
 - Develop three distinct visual directions for your project. Each direction should include a written description, visual references, and gestural sketches of your homepage all of which have unique typography, color, and visual languages. Aim for as much of a range as possible!
 - Reading: [Black Gooey Universe](https://unbag.net/end/black-gooey-universe). Brian is the discussion leader, everyone else [responds](https://paper.dropbox.com/doc/Penn-Art-of-Web-S21-Reading-Reflections--BHd5R0HQvaKv0SG9scYPox0MAQ-S1JiF65jZGoyxtwx4EUPf)..
 
