@@ -6,6 +6,24 @@ summary: Web accessibility, Helpful App check ideation, jQuery clock
 
 ---
 
+
+### Wednesday, In Class 
+
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
+- [Today&rsquo;s notes](https://paper.dropbox.com/doc/Penn-Week-11b-jQuery-Review-jQuery-Clock-Project-Check-In--BH4z8_aOvgn5eZ52PSFiKcvrAQ-UVMBcOgYqz5BYlKMX1etK)
+- Look at jQuery work
+- Introduce jQuery clock
+- Talk about homework
+- Small group meetings
+
+### Homework
+- Begin thinking through your site contents and architecture (can change later) and develop a site map and/or wireframe
+- Develop three distinct visual directions for your project. Each direction should include a written description, visual references, and gestural sketches of your homepage all of which have unique typography, color, and visual languages. Aim for as much of a range as possible!
+- Reading: [Black Gooey Universe](https://unbag.net/end/black-gooey-universe). Brian is the discussion leader, everyone else [responds](https://paper.dropbox.com/doc/Penn-Art-of-Web-S21-Reading-Reflections--BHd5R0HQvaKv0SG9scYPox0MAQ-S1JiF65jZGoyxtwx4EUPf)..
+
+---
+
+
 ### Monday, In Class
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
