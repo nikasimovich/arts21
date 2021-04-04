@@ -41,5 +41,5 @@ index:            3
 - 04/19 – Project check in
 - 04/21 – Project check in
 - 04/26 – Helpful Site/App due
-- 04/28 – Student portfolio is due, final day of class (this will not be a big deal, and you&rsquo;;ll have class time to work on it)
+- 04/28 – Student portfolio is due, final day of class (this will not be a big deal, and you&rsquo;ll have class time to work on it)
 - 05/05 – Any project or exercise updates are due via email
