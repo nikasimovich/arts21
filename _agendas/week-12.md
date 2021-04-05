@@ -2,7 +2,7 @@
 title:            Week 12
 start_date:       2021-04-02 00:00:00 -0500
 date_range:       04/05 – 04/07
-summary: Web accessibility, Helpful App check ideation, jQuery clock
+summary: Documenting interactive work, jQuery clock
 
 ---
 
