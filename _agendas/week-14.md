@@ -14,4 +14,4 @@ summary: Helpful app continues
 
 ### Homework
 - Continue working on your helpful app and bring in a draft of your final presentation for Wednesday
-- Final readings: [Run Your Own Social – Darius Kazemi](https://runyourown.social/) and [NFTs Are Shaking Up the Art World. They May Be Warming the Planet, Too.](https://www.nytimes.com/2021/04/13/climate/nft-climate-change.html). Mia and Erin are our final discussion leaders, everyone else can [resond on the doc](https://paper.dropbox.com/doc/Penn-Art-of-Web-S21-Reading-Reflections--BJH13GEc8Ub2LbDPAP_P5lBhAQ-S1JiF65jZGoyxtwx4EUPf).
+- Final readings: [Run Your Own Social – Darius Kazemi](https://runyourown.social/) and [NFTs Are Shaking Up the Art World. They May Be Warming the Planet, Too](https://www.nytimes.com/2021/04/13/climate/nft-climate-change.html). Mia and Erin are our final discussion leaders, everyone else can [respond on the doc](https://paper.dropbox.com/doc/Penn-Art-of-Web-S21-Reading-Reflections--BJH13GEc8Ub2LbDPAP_P5lBhAQ-S1JiF65jZGoyxtwx4EUPf).
