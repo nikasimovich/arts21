@@ -6,7 +6,21 @@ summary: Helpful app continues
 
 ---
 
+
 ### Wednesday, In Class
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
+- [Today&rsquo;s notes](https://paper.dropbox.com/doc/Penn-Week-14b-Helpful-App-Continues--BJSFZyFfKNe7agGPikxXY1JEAQ-FYHdurZfFyLaz8to4EyLw)
+- Hear from Mia and Erin about the readings
+- Small group meetings
+
+
+### Homework
+- Complete your helpful app or website and please be on time to class! Our critique is on Monday.
+- Finish your student homepage for next Wednesday
+
+---
+
+### Monday, In Class
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
 - [Today&rsquo;s notes](https://paper.dropbox.com/doc/Penn-Week-14a-Helpful-App-Continues--BJFImcP3KOKlkI4RNKeXm7FcAQ-xgzrpK4OIsMHuUXeKngjg)
 - Announcements and small group meetings
